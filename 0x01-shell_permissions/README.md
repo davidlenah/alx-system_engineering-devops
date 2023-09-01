@@ -1,1 +1,1 @@
-shell permissions
+This project is on shell permisions
